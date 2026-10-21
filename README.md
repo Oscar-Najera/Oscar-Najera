@@ -30,12 +30,12 @@ Herramientas: Git, GitHub, Postman
 
 📊 Estadísticas de GitHub
 
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=Oscar-Najera&show_icons=true&theme=tokyonight&locale=es)
+![Estadísticas de GitHub](./profile/stats.svg)
 
 
 💻 Lenguajes más utilizados 
 
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Oscar-Najera&layout=pie&langs_count=8&theme=tokyonight)
+![Lenguajes más utilizados](./profile/top-langs.svg)
 
 
 📫 Contacto
