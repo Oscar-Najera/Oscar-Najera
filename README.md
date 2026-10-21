@@ -23,8 +23,11 @@ Soy Ingeniero de Software con interés en el desarrollo de aplicaciones, la inge
 🛠️ Tecnologías y herramientas
 
 Lenguajes: Java, Python, Kotlin, Flutter
+
 Desarrollo: Android Studio, Visual Studio Code
+
 Herramientas: Git, GitHub, Postman
+
 Áreas de interés: Ingeniería de Software, Data Engineering, UI/UX
 
 
