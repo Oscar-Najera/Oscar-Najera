@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hola, soy Nájera 👋
+Ingeniero de Software | Licenciado en Diseño Gráfico | Software Development | UI/UX
+Soy Ingeniero de Software con interés en el desarrollo de aplicaciones, la ingeniería de datos, el diseño de interfaces y la experiencia de usuario.
+🛠️ Tecnologías y herramientas
+Lenguajes: Java, Python, Kotlin, Flutter
+Desarrollo: Android Studio, Visual Studio Code
+Herramientas: Git, GitHub, Postman
+Áreas de interés: Ingeniería de Software, Data Engineering, UI/UX
+📊 Estadísticas de GitHub
+
+💻 Lenguajes más utilizados
+Java, Python
+📫 Contacto
+LinkedIn: www.linkedin.com/in/oscarnajera22
+
